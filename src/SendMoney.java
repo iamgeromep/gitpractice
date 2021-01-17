@@ -4,5 +4,10 @@ public class SendMoney {
 
     public static void main() {
 
+//        hello boi
+//        gitpractice
+
+        System.out.println("Hello Master Jai");
+
     }
 }
