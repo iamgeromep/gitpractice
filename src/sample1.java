@@ -1,0 +1,7 @@
+public enum sample1 {
+    MONEYTRANSFER,
+    BILLSPAYMENT,
+    BUYLOAD,
+    ADDACCOUNTCREDITS,
+    ADDGAMECREDITS;
+}
