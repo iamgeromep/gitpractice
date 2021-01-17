@@ -8,6 +8,8 @@ public class SendMoney {
 //        gitpractice
 
         System.out.println("Hello Master Jai");
-
+        
+        System.out.println("Hello Master pagat");
+        
     }
 }
